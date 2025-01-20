@@ -12,6 +12,7 @@ quizzes.
 follow these steps: 
 Clone the repository:
 - https://github.com/Sahi552/QuizzApp
+- tree master
 
 
 ##Features:
