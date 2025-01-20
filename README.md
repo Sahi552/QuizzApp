@@ -1,16 +1,24 @@
 # quiz_game
+# QuizzApp
+Welcome to QuizApp! This application is designed to provide users with a fun and engaging way to test their knowledge on quizzes.
+quizzes. 
 
-A new Flutter project.
+## Table of Contents 
+- [Installation](#installation)
+- [Features](#features)
+- [Contact](#contact)
 
-## Getting Started
+## Installation To install QuizApp,
+follow these steps: 
+Clone the repository:
+- https://github.com/Sahi552/QuizzApp
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+##Features:
+- Multiple-choice quizzes on various topics
+- Timed quizzes
+- Score tracking
+- User-friendly interface
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Contact:
+If you have any questions or feedback, feel free to reach out to sahithiyani280@gmail.com.
